@@ -1,5 +1,7 @@
 # public_docs
 Just a place to put public docs.
 
-GitHub's built in editor ~~supports~~ gfm (_of course_).  At least if you get the syntax ***right***.
+GitHub's built in editor supports gfm (*of course*).  At least if you get the syntax ***right***.
+
+Unfortunately, I don't know the method very well ~~yet~~.
 
