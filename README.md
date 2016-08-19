@@ -13,3 +13,6 @@ Sample table syntax:
 | Close     | Closes a window     |
 
 And of course being able to modify this from vim is even better.
+
+So far I have not done much more than clone and commit (and push)...
+
